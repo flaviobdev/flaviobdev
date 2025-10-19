@@ -49,7 +49,11 @@
       src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
-      alt="react" width="40" height="40" /> </a></p>
+      alt="react" width="40" height="40" /> </a>
+      <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"
+      alt="react" width="40" height="40" /> </a>
+      </p>
 
 <br>
 
