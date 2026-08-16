@@ -25,6 +25,6 @@ Gosto de transformar problemas reais em soluções **simples, performáticas e e
 
 ### 📫 Contato
 
-[GitHub](https://github.com/flaviobdev) • [LinkedIn](https://www.linkedin.com/)
+[GitHub](https://github.com/flaviobdev) • [LinkedIn](https://www.linkedin.com/in/flavio-barbosa-4b1990236/)
 
 
