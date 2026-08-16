@@ -1,4 +1,4 @@
-# Flavio Barbosa - #OpenToWork
+#OpenToWork
 
 ### Desenvolvedor Full Stack Pleno
 
